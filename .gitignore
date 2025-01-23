@@ -1,2 +1,6 @@
 /Datasets
 /checkpoints
+Experimentacion/data
+Experimentacion/save
+Experimentacion/wandb
+Colab_GPUs.ipynb
