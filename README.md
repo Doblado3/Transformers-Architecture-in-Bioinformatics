@@ -2,13 +2,17 @@
 
 Este repositorio contiene el código y los recursos de mi Trabajo de Fin de Grado, centrado en aplicar modelos Transformers al estudio de datos single-cell.
 
-.
-.
-.
-README por completar...
-.
-.
-.
+## Estructura del Repositorio
+
+/AttentionNLP -> Carpeta que contiene el código asociado al capítulo 3: NLP and Attentions; del tutorial seguido. Dentro de la misma, podemos encontrar, entre otros extractos, la implementación de un mecanismo de atenticón en Python, una red GRU para análisis de sentimientos o distintos modelos de prediccion NLP como Trigram y Bigram.
+
+/Experimentacion -> Sección principal del código desarrollado a lo largo del TFG. Contiene los notebooks, destinados a ser ejecutados en Google Colab, con el código necesario para realizar las pruebas con cada modelos, así como un notebook con el código para la visualización de los conjuntos de entrenamiento. Además, dentro hay otra carpeta que contiene una serie de notebooks desarrollados mientras trataba de implementar los modelos, probando distintas estrategias.
+
+/Neural Networks -> Carpeta que contiene el código asociado al capítulo 1: Neural Networks; del tutorial seguido. Dentro de la misma, entre otras, se implementan una Red Neuronal con conexiones residuales para aprender el funcionamiento de una puerta XOR, un modelo SVM o una Red Neuronal con una función softmax para aprender a pasar de binario a decimal.
+
+/RNNs -> Carpeta que contiene el código asociado al capítulo 2: RNNs; del tutorial seguido. Dentro de la misma, entre otras, se implementa una arquitectura LSTM desde cero, una Red Neuronal Recurrente simple desde cero y, además, se prueban las implementaciones con las distintas librerias keras, tensorflow y pytorch.
+
+/Transformers -> Carpeta que contiene el código asociado al capítulo 4: Transformers; del tutorial seguido. Dentro de la misma, se implementa un modelo Transformer en Python para traducir de español a inglés.
 
 ## Contribuciones
 
