@@ -14,10 +14,18 @@ Este repositorio contiene el código y los recursos de mi Trabajo de Fin de Grad
 
 /Transformers -> Carpeta que contiene el código asociado al capítulo 4: Transformers; del tutorial seguido. Dentro de la misma, se implementa un modelo Transformer en Python para traducir de español a inglés.
 
+## Reproducibilidad
+
+Los notebooks desarrollados para la implementación y prueba de los modelos scGPT, Geneformer y CellPLM han sido creados para ejecutarse en Google Colab, por lo que lo más sencillo para reproducir los resultados es probarlos dentro del mismo. Sin embargo, en caso de poseer una GPU con la suficiente capacidad, con ligeros cambios estos serían perfectamente ejecutables en un entorno local.
+
+## Dependencias
+
+Se incluyen los archivos environment.yml y requeriments.txt para la reproducción de los códigos aportados, además de para consultar versiones en caso de que surjan problemas de compatibilídad. Es posible que las versiones necesarias hayan cambiado en el momento en que estés leyendo esto!!
+
 ## Contribuciones
 
 Este trabajo ha sido desarrollado por Pablo Doblado Mendoza bajo la supervisión de el Dr. Juan Antonio Nepomuceno Chamorro. Este, es el Trabajo de Fin de Grado (TFG) desarrollado por el alumno 
-para el Grado de Ingeniería de la Salud por la Universidad de Sevilla.
+para el Grado de Ingeniería de la Salud, mención en Informática Clínica, por la Universidad de Sevilla.
 
 ## Contacto
 
