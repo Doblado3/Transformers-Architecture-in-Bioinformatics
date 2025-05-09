@@ -167,7 +167,7 @@ protobuf==4.25.3
 psutil==6.1.1
 ptyprocess==0.7.0
 pure_eval==0.2.3
-pyarrow==12.0.1
+pyarrow==14.0.1
 pyarrow-hotfix==0.6
 pycairo==1.23.0
 pycparser @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_pycparser_1733195786/work
