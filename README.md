@@ -34,6 +34,6 @@ para el Grado de Ingeniería de la Salud, mención en Informática Clínica, por
 
 ## Agradecimientos
 
-* Dr. Juan Antonio Nepomuceno Chamorro (Supervisor) 
+* Dr. Juan Antonio Nepomuceno Chamorro (Tutor) 
 * The Engineers Guide to Deep Learning”, realizado por Hironobu Suzuki
 * Fabian Theis Laboratory
