@@ -1,6 +1,6 @@
 # Transformers in Bioinformatics: A Study of Single-Cell Data Analysis
 
-Este repositorio contiene el código y los recursos de mi Trabajo de Fin de Grado, centrado en aplicar modelos Transformers al estudio de datos single-cell.
+Este repositorio contiene el código y los recursos de mi Trabajo de Fin de Grado, centrado en aplicar modelos Transformers al estudio de datos single-cell. Toda la información referente al mismo se encuentra en https://github.com/Doblado3/Transformers-Architecture-in-Bioinformatics/blob/main/Memoria_TFG_v1.pdf.zip
 
 ## Estructura del Repositorio
 
